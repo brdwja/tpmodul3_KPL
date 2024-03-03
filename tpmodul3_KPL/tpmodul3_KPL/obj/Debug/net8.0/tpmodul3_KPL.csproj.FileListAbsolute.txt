@@ -1,0 +1,14 @@
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\bin\Debug\net8.0\tpmodul3_KPL.exe
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\bin\Debug\net8.0\tpmodul3_KPL.deps.json
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\bin\Debug\net8.0\tpmodul3_KPL.runtimeconfig.json
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\bin\Debug\net8.0\tpmodul3_KPL.dll
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\bin\Debug\net8.0\tpmodul3_KPL.pdb
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.AssemblyInfoInputs.cache
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.AssemblyInfo.cs
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.csproj.CoreCompileInputs.cache
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.dll
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\refint\tpmodul3_KPL.dll
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.pdb
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\tpmodul3_KPL.genruntimeconfig.cache
+C:\Users\Bagus Baradwaja\Documents\tpmodul3_KPL\tpmodul3_KPL\obj\Debug\net8.0\ref\tpmodul3_KPL.dll
